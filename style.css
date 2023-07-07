@@ -1,0 +1,29 @@
+body {
+  font-family: 'Lato', Arial, sans-serif;
+  margin: 20px;
+  background-image: url('./movie.jpg');
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+ 
+}
+
+h1 {
+  color: rgb(0, 0, 0);
+  text-align: left;
+}
+
+h2 {
+  color: rgb(7, 12, 0);
+}
+
+p {
+  color: #050000;
+}
+
+.home-button {
+  display: inline-block;
+  padding: 5px;
+  background-color: #ffffff; /* White color */
+  border-radius: 5px;
+}
